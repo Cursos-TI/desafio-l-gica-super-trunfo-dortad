@@ -134,10 +134,10 @@ int main() {
         printf("voce deve escolher dois atributos diferentes para comparar as cartas\n");
     }else
     {     
-        printf("/n");
-        printf("/n");
+        printf("\n");
+        printf("\n");
         printf("analisando a primeira opção de atributo: \n");
-        printf("/n");
+        printf("\n");
         switch (opcao1)
         {
         case     1:
@@ -229,10 +229,10 @@ int main() {
             printf("Opcao Invalida\n");
             break;
         }
-        printf("/n");
-        printf("/n");
+        printf("\n");
+        printf("\n");
         printf("analisando a segunda opção de atributo: \n");
-        printf("/n");
+        printf("\n");
         switch (opcao1)
         {
         case     1:
